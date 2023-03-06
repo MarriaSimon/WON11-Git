@@ -3,7 +3,7 @@ import java.util.Random;
 public class Donations{
 	public static void main(String[] args){
 		addDonation();
-		//numberOfDonations();
+		numberOfDonations();
 	}
 
 	public static void addDonation(){
